@@ -1,2 +1,18 @@
-.idea
 node_modules
+
+# folders
+.idea
+.bloop
+.metals
+.vscode
+.hydra
+target
+lib
+classes
+
+# files
+*.iml
+*.sc
+*.swp
+
+lib_managed
